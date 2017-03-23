@@ -40,7 +40,7 @@
 #include <asm/sizes.h>
 #include <asm/tlb.h>
 #include <asm/alternative.h>
-#include <soc/qcom/vendor/sdlog_mem_reserve.h>
+#include "../../../include/soc/qcom/vendor/sdlog_mem_reserve.h"
 
 #include "mm.h"
 
